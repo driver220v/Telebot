@@ -1,0 +1,9 @@
+{
+  "data": {
+    "login": "login",
+    "password": "password",
+    "ipv4": "ipv4",
+    "port": "port",
+    "token": "token"
+  }
+}
